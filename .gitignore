@@ -1,0 +1,16 @@
+
+# Bỏ qua file .env
+.env
+
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua file lock (tùy chọn)
+package-lock.json
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua thư mục build
+dist/
+build/
